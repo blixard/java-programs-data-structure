@@ -1,0 +1,9 @@
+HASH TABLE (separate chaining) implementation in java
+
+"Hi, my name is Shubhaprasad Padhy"
+"enter 1001 in main menu(HashTsable_menu.java) to see devploper_details"
+"Password for devploper option"
+password = "qwertyui06"
+
+version – 0.0 
+17/8/2020
